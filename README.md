@@ -1,4 +1,4 @@
-# practice_3
+#World Time App
 
 A new Flutter project.
 
